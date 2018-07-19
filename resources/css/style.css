@@ -9,7 +9,9 @@ h1{
   color: white;
 }
 .menu{
-  font-family: Aquamarine;
+  font-family: Verdana;
+  font-weight: Normal;
+  color: Aquamarine;
   font-size: 16px;
 }
 h2{
@@ -18,11 +20,11 @@ h2{
   font-weight: 300;
   font-size: 42px;
 }
-p{
+.info{
   font-family: Verdana;
-  font-size: 21px
-  color: gray;
   font-weight: normal;
+  font-size: 21px;
+  color: grey;
 }
 .footer{
   font-family: Verdana;
