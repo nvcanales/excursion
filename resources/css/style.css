@@ -18,19 +18,9 @@ h2{
   font-weight: 300;
   font-size: 42px;
 }
-#styled_video_container{
-  opacity: 0.6;
-  transition: all 8s ease-in-out;
-
-}
 p{
   font-family: Verdana;
   font-size: 21px
-  color: Gray;
-}
-image{
-  position: center;
-}
-video{
-
+  color: gray;
+  font-weight: normal;
 }
